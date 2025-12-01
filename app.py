@@ -4,8 +4,8 @@ import math
 
 # Page configuration
 st.set_page_config(
-    page_title="Accessible Parking Bengaluru",
-    page_icon="♿",
+    page_title="ParkIt",
+    page_icon="🚗",
     layout="wide"
 )
 
@@ -222,7 +222,7 @@ def get_availability_status(available, total):
 # Header
 st.markdown("""
 <div class="main-header">
-    <h1>♿ Accessible Parking Bengaluru</h1>
+    <h1>♿ ParkIt - Accessible Parking Bengaluru</h1>
     <p>Find disabled-friendly parking spaces across the city</p>
 </div>
 """, unsafe_allow_html=True)
