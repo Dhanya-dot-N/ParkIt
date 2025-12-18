@@ -4,8 +4,8 @@ from datetime import datetime
 
 # Page configuration
 st.set_page_config(
-    page_title="Accessible Parking India",
-    page_icon="♿",
+    page_title="PARKIT-Accessible Parking India",
+    page_icon="🚗",
     layout="wide"
 )
 
